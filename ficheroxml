@@ -1,0 +1,9 @@
+<reserva>
+<nombre>Cristian Almeida Sintriani</nombre>
+<fechaEvento>22/4/2024</fechaEvento>
+<tipo>Banquete</tipo>
+<asistentes>5</asistentes>
+<tipoCocina>bufe</tipoCocina>
+<tipoMesa>redonda</tipoMesa>
+<comensalesMesa>5</comensalesMesa>
+</reserva>
